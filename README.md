@@ -1,0 +1,2 @@
+# CagatayCanKronos
+Stok Otomasyonu
